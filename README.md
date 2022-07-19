@@ -1,2 +1,2 @@
-# vuejs-shrink-image-on-hover
+# vue-enlarge-image-on-hover-example
 Created with CodeSandbox
